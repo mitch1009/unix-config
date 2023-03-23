@@ -30,7 +30,7 @@ nvm install 16 && nvm use 16
 ## install yarn
 npm i -g yarn
 # install firebase-tools
-npm i -g firebase tools
+npm i -g firebase-tools
 
 
 ```
