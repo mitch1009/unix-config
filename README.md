@@ -16,7 +16,7 @@ c
 ## Usage 
 to use most of the commands here follow the guides below:
 
-### Setup Nodejs
+###  ☊ Setup Nodejs
 run the following command
 ```bash
 # type this command and press enter
@@ -31,7 +31,7 @@ su $USER
 nvm install 16 && nvm use 16
 ```
 
-### Using NPM 
+### 🫶 Using NPM 
 using npm to install neccessary tools for development
 ```bash
 ## install yarn
@@ -41,4 +41,3 @@ npm i -g firebase-tools
 ```
 
 
-```
