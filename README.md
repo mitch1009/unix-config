@@ -13,9 +13,8 @@ su $USER
 # test configuration - if this comand clears your terminal  it means you are done. your system is set properly.
 c
 ```
-
 ## Usage 
-to use mos of the commands here follow the guide below:
+to use most of the commands here follow the guides below:
 
 ### Setup Nodejs
 run the following command
@@ -27,6 +26,8 @@ su $USER
 
 # install nodejs 16
 nvm install 16 && nvm use 16
+### Using NPM 
+
 ## install yarn
 npm i -g yarn
 # install firebase-tools
