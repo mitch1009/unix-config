@@ -2,5 +2,5 @@
 echo "Configuring initial commands"
 echo "
 config=~/unix-config/_.profile
-[ -f ${config} ] && source ${config}
+[ -f \${config} ] && source \${config}
 ">>~/.bashrc
