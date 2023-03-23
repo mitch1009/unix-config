@@ -21,17 +21,24 @@ run the following command
 ```bash
 # type this command and press enter
 initNode
+# if you come across this error - curl not found please run the command bellow to install it
+i curl && initNode
+
 # reload the user account
 su $USER
 
-# install nodejs 16
+# install nodejs 16 - in some instances you need o close the terminal and reopen it for nvm settings to be set.
 nvm install 16 && nvm use 16
-### Using NPM 
+```
 
+### Using NPM 
+using npm to install neccessary tools for development
+```bash
 ## install yarn
 npm i -g yarn
 # install firebase-tools
 npm i -g firebase-tools
+```
 
 
 ```
